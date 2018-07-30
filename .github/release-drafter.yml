@@ -1,4 +1,4 @@
 template: |
-  ## What's Changed
+  ## $PREVIOUS_TAG
 
   $CHANGES
